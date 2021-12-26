@@ -4,18 +4,18 @@ The official implementation of the paper ["Activation Modulation and Recalibrati
 
 ## Preparation
 
-### Dependencies
+#### Dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### Dataset
+#### Dataset
 
 Download PASCAL VOC 2012 follwing instructions in http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit
 
 ## Run
 
 ```
-python run_sample.py --train_amr_pass True --make_cam_pass True eval_cam_pass True
+python run_sample.py --train_amr_pass True --make_cam_pass True --eval_cam_pass True
 ```
