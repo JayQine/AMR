@@ -2,6 +2,14 @@
 
 This repository contains the pytorch codes and trained models described in the AAAI2021 paper ["Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation"](https://arxiv.org/abs/2112.08996)
 
+## Overview
+
+![overview](img/framework.png)
+
+## Performance
+
+![performance](img/Visualizations.png)
+
 ## Preparation
 
 #### Dependencies
