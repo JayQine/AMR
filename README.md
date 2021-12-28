@@ -20,10 +20,20 @@ pip install -r requirements.txt
 
 #### Dataset
 
-Download PASCAL VOC 2012 follwing instructions in http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit
+Download PASCAL VOC 2012 follwing instructions in http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit.
+
+## Pretrained model
+
+The pretrained model can be download in [link](https://drive.google.com/file/d/16NdYRZaZBuYJBOlbPhVlxVPAxFDebhe9/view?usp=sharing).
 
 ## Run
 
 ```
 python run_sample.py --train_amr_pass True --make_cam_pass True --eval_cam_pass True
+```
+
+### Eval
+
+```
+python run_sample.py --make_cam_pass True --eval_cam_pass True
 ```
