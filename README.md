@@ -33,7 +33,8 @@ Download PASCAL VOC 2012 follwing instructions in http://host.robots.ox.ac.uk/pa
 
 ## Pretrained model
 
-The pretrained model can be download in [link](https://drive.google.com/file/d/16NdYRZaZBuYJBOlbPhVlxVPAxFDebhe9/view?usp=sharing).
+The pretrained model can be download in [link](https://pan.baidu.com/s/1Ii4WsQAy5mEJHes1XFeIxQ).
+Extraction code: cpul.
 
 ## Run
 
