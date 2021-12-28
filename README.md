@@ -10,6 +10,15 @@ This repository contains the pytorch codes and trained models described in the A
 
 ![performance](img/Visualizations.png)
 
+## Prerequisites
+
+* Linux
+* python 3.8
+* pytorch 1.8.1
+* torchvision 0.9.1
+* NVIDIA GPU
+* CUDA 11.1
+
 ## Preparation
 
 #### Dependencies
