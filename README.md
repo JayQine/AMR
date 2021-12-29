@@ -33,8 +33,8 @@ Download PASCAL VOC 2012 follwing instructions in http://host.robots.ox.ac.uk/pa
 
 ## Pretrained model
 
-The pretrained model can be download in [link](https://pan.baidu.com/s/1Ii4WsQAy5mEJHes1XFeIxQ).
-Extraction code: cpul.
+The pretrained model can be download in [link](链接: https://pan.baidu.com/s/1YDwKHZExO55gZqOwl0gqIw).
+Extraction code: mepu.
 
 ## Run
 
@@ -47,3 +47,7 @@ python run_sample.py --train_amr_pass True --make_cam_pass True --eval_cam_pass 
 ```
 python run_sample.py --make_cam_pass True --eval_cam_pass True
 ```
+
+## Acknowledgement
+
+We would like to thank the [irn](https://github.com/jiwoon-ahn/irn) and the [AdvCAM](https://github.com/jbeomlee93/AdvCAM) for their open-source projects.
