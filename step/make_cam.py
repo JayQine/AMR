@@ -200,8 +200,8 @@ def _work(process_id, model, dataset, args):
 
 
 def run(args):
-    model = getattr(importlib.import_module(args.cam_network), 'CAM')()
-    model.load_state_dict(torch.load(args.cam_weights_name + '.pth'), strict=True)
+    model = getattr(importlib.import_module(args.amr_network), 'CAM')()
+    model.load_state_dict(torch.load(args.amr_weights_name + '.pth'), strict=True)
     model.eval()
 
     n_gpus = torch.cuda.device_count()
