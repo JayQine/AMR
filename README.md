@@ -35,8 +35,8 @@ Download PASCAL VOC 2012 follwing instructions in http://host.robots.ox.ac.uk/pa
 
 ## Pretrained model
 
-The pretrained model can be download in [models]([https://pan.baidu.com/s/1YDwKHZExO55gZqOwl0gqIw](https://drive.google.com/drive/folders/1iFcPhQrK0aD15Lnf38P9aZzlRvpBJwPJ?usp=drive_link)).
-Extraction code: mepu.
+The pretrained model can be download in [models](https://drive.google.com/drive/folders/1iFcPhQrK0aD15Lnf38P9aZzlRvpBJwPJ?usp=drive_link).
+
 
 ## Run
 
