@@ -1,6 +1,6 @@
 # Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation
 
-This repository contains the pytorch codes and trained models described in the AAAI2022 paper ["Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation"](https://arxiv.org/abs/2112.08996). This algorithm is proposed by ByteDance, Intelligent Creation, CV AutoML Team (字节跳动-智能创作-CV AutoML团队).
+This repository contains the pytorch codes and trained models described in the AAAI2022 paper ["Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation"](https://arxiv.org/abs/2112.08996). 
 
 Authors: Jie Qin, Jie Wu, Xuefeng Xiao, Lujun Li, Xingang Wang.
 
@@ -35,7 +35,7 @@ Download PASCAL VOC 2012 follwing instructions in http://host.robots.ox.ac.uk/pa
 
 ## Pretrained model
 
-The pretrained model can be download in [link](https://pan.baidu.com/s/1YDwKHZExO55gZqOwl0gqIw).
+The pretrained model can be download in [models]([https://pan.baidu.com/s/1YDwKHZExO55gZqOwl0gqIw](https://drive.google.com/drive/folders/1iFcPhQrK0aD15Lnf38P9aZzlRvpBJwPJ?usp=drive_link)).
 Extraction code: mepu.
 
 ## Run
